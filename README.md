@@ -120,9 +120,16 @@ If you have any questions or suggestions regarding Bookify, feel free to reach o
 
 
 User Inteface:
+Register :
+![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/d8412c0a-c583-43d1-9933-dfbd10cafc32)
+Login :
+
 ![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/e0fe19b9-3c60-4c96-84c1-be446f6adbac)
 
+UserDash board:
 ![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/42207da4-45fa-4246-b745-95df99a5eb33)
+
+Cart page:
 ![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/e3b6edbf-612a-4bfd-8708-236a163fe8b8)
 Admin Panel:
 ![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/6099c67b-1793-4a26-a395-e6a39b753f0c)
