@@ -14,6 +14,7 @@ Table of Contents
 - 5.Contributing
 - 6.License
 - 7.Contact
+-9-Website User InterFace
 
 1.Features
 
@@ -47,7 +48,7 @@ User Can View the Books Uploaded by Admin
 
 3.Installation
 
-3. Form the Github : 
+3.1 Form the Github : 
 
 To run Bookify locally on your machine, follow these steps:
 
@@ -72,7 +73,8 @@ gh repo clone VikramRathodk/Bookify-Ebook_Management_System
 
 
 
-3.2 From Drive:
+3.2 From Google Drive:
+*Google drive link:
 
 1.Download the Project and Extract on the Local Machine
 2. Set up the database:
@@ -118,8 +120,8 @@ If you have any questions or suggestions regarding Bookify, feel free to reach o
 - Email: vikram.rathod22@spit.ac.in
 - GitHub: https://github.com/VikramRathodk
 
+8.Website User InterFace:
 
-User Inteface:
 Register :
 ![image](https://github.com/VikramRathodk/Bookify-Ebook_Management_System/assets/105376838/d8412c0a-c583-43d1-9933-dfbd10cafc32)
 Login :
